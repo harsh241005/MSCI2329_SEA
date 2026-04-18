@@ -1,4 +1,3 @@
-# MSCI2329_SEA
 # COVID-19 Global Data Analysis: Comprehensive Findings Report
 
 ---
